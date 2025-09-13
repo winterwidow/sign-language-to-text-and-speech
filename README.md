@@ -14,7 +14,6 @@ It uses **Flask-SocketIO**, **MediaPipe Hands**, **OpenCV**, and a trained ML mo
   - Race to sign the prompted letter.  
   - Timer & scoring system with live updates.  
 - ⚡ **Fast Processing** – Uses WebSockets for smooth predictions.  
-- 🛡 **Robust Handling** – Handles feature mismatches, missing hands, and low-confidence predictions.  
 - ✨ **Modern UI** – Clean TailwindCSS design, glowing effects, and smooth split layout.  
 
 ---
